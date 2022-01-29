@@ -24,8 +24,8 @@ Security has always been a big concern for business organizations. Nowadays, it�
 ### What is SOC 2 compliance?
 The definition of SOC 2 is twofold. 
 
-* 1 - First, SOC 2 is a technical audit process. 
-* 2 - It’s a requirement for an organization to write, implement, and follow security procedures.
+*  First, SOC 2 is a technical audit process. 
+*  It’s a requirement for an organization to write, implement, and follow security procedures.
 
 ## Table of Contents
 ---
