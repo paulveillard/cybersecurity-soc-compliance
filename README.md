@@ -12,13 +12,20 @@ In today’s cyberthreat-infested landscape, customers demand honesty and transp
 
 The System and Organizations Control (SOC) offers the best way to demonstrate effective information technology controls. 
 
-The SOC report assures user entities that:
+**The SOC report** assures user entities that:
 
 - You have the required security controls in place to protect customer data against known and emerging threats 
 - You've set up alerts to detect anomalies and violations across the entire ecosystem easily
 - Besides preventing risk situations, you can quickly repair damage and restore normalcy in case a rare data breach or system failure occurs
 
 ### Why you need it?
+Security has always been a big concern for business organizations. Nowadays, it’s an even more significant concern, and it isn’t hard to understand why. The technology world changes at an amazingly fast pace. Companies around the world increasingly rely on the cloud with each passing year. And with each passing year, we see the number of security threats increase. That’s why compliance requirements are crucial in this day and age. We’re here today to talk about one specific compliance requirement: SOC 2 compliance. SOC 2 is one of the most common compliance requirements organizations have to adhere to. But what is SOC 2, and why should your company care?
+
+### What is SOC 2 compliance?
+The definition of SOC 2 is twofold. 
+
+* 1 - First, SOC 2 is a technical audit process. 
+* 2 - It’s a requirement for an organization to write, implement, and follow security procedures.
 
 ## Table of Contents
 ---
