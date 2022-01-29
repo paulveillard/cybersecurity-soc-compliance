@@ -1,5 +1,9 @@
 # SOC compliance: SOC 1 vs. SOC 2 vs. SOC 3
 
+###### Welcome to The World of SOC Complaince:
+> A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity penetration testing.
+> Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
+
 ## Introduction
 
 ### What is SOC?
