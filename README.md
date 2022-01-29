@@ -17,3 +17,17 @@ The SOC report assures user entities that:
 ### Why you need it?
 
 ## Table of Contents
+---
+* [Introduction](#introduction)
+* [Educational Courses](#educational-courses)
+* [Books](#books)
+* [Guides and Checklists](#guides-and-checklists)
+* [Tools and Libraries](#tools-and-libraries)
+* [Tutorials](#tutorials)
+* [Journals](#journals)
+* [Conferences](#conferences)
+* [Related Awesome Lists](#related-awesome-lists)
+* [Subreddits](#subreddits)
+* [Certifications](#certifications)
+* [Miscellaneous](#miscellaneous)
+
