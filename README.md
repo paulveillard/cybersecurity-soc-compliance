@@ -9,6 +9,7 @@
 ### What is SOC?
 Security has always been a big concern for business organizations. Nowadays, it’s an even more significant concern, and it isn’t hard to understand why. The technology world changes at an amazingly fast pace. Companies around the world increasingly rely on the cloud with each passing year. And with each passing year, we see the number of security threats increase. That’s why compliance requirements are crucial in this day and age. We’re here today to talk about one specific compliance requirement: SOC 2 compliance. SOC 2 is one of the most common compliance requirements organizations have to adhere to. But what is SOC 2, and why should your company care?
 
+[soc-compliance](https://github.com/paulveillard/cybersecurity-soc-compliance/blob/main/img/SOC-report-comparison-table.jpg)
 
 
 ### What is SOC 2 compliance?
@@ -16,6 +17,7 @@ The definition of SOC 2 is twofold.
 
 *  First, SOC 2 is a technical audit process. 
 *  It’s a requirement for an organization to write, implement, and follow security procedures.
+*  
 
 ## Table of Contents
 ---
